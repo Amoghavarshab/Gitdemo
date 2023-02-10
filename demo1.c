@@ -3,4 +3,6 @@
  {
     printf("hello world");
     printf("ISE");
+    printf("hi");
+    printf("hi");
  }
